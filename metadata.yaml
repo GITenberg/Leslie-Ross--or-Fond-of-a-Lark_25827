@@ -1,0 +1,28 @@
+_repo: Leslie-Ross--or-Fond-of-a-Lark_25827
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25827-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bruce, Charles
+    gutenberg_agent_id: '31598'
+    url: http://www.gutenberg.org/2009/agents/31598
+description: ''
+gutenberg_issued: '2008-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Practical jokes -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+title: Leslie Ross; or, Fond of a Lark
+url: http://www.gutenberg.org/ebooks/25827
